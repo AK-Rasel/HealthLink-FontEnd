@@ -1,10 +1,14 @@
 import { Outlet } from "react-router-dom";
 import NavBar from "./Pages/Shared/NavBar";
+import Container from "./SharedComponete/Container";
 
 const App = () => {
   return (
-    <div className="max-w-7xl mx-auto">
-      <NavBar />
+    <div>
+      <Container>
+        <NavBar />
+      </Container>
+
       <Outlet />
     </div>
   );
