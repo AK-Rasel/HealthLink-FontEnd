@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         poppins: ['"Poppins"', "sans-serif"],
+        plus_Jakarta_Sans: ['"Plus Jakarta Sans"', '"sans-serif"'],
       },
       colors: {
         "primary-color": "#223263",

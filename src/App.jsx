@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom";
 import NavBar from "./Pages/Shared/NavBar";
-import Container from "./SharedComponete/Container";
+import Container from "./SharedComponent/Container";
+import Footer from "./Pages/Shared/Footer";
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       </Container>
 
       <Outlet />
+      <Footer />
     </div>
   );
 };

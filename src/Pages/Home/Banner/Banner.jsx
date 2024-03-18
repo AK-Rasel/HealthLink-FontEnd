@@ -4,7 +4,7 @@ import { CiFaceSmile } from "react-icons/ci";
 
 const Banner = () => {
   return (
-    <section className=" bg-secondary-color">
+    <section className=" bg-secondary-color ">
       <div className="max-w-7xl mx-auto  flex lg:flex-row flex-col-reverse justify-between items-center pt-5 px-4 lg:px-0 gap-5 ">
         <div className="flex-1 text-center lg:text-left font-poppins space-y-3">
           <h2 className="font-semibold text-quaternary-color">

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "campName": "Adventure Camp",
+    "date": "2024-02-19",
+    "feedback": "Had an amazing time at Adventure Camp! The activities were thrilling and the staff was very friendly. Definitely recommend it to anyone looking for an adventurous experience.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "campName": "Nature Retreat",
+    "date": "2024-02-15",
+    "feedback": "Nature Retreat was a peaceful getaway surrounded by beautiful scenery. The yoga sessions were rejuvenating and the food was delicious. Will be returning next year!",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "campName": "Wildlife Safari",
+    "date": "2024-02-10",
+    "feedback": "Wildlife Safari exceeded my expectations! The guides were knowledgeable and we saw so many incredible animals. An unforgettable experience.",
+    "rating": 4.8
+  }
+]
